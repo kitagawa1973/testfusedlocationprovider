@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">testfusedlocationprovider</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="dummy">Dummy</string>
+    <string name="pri0">Priority0</string>
+    <string name="pri1">Priority1</string>
+    <string name="pri2">Priority2</string>
+    <string name="pri3">Priority3</string>
+
+</resources>
