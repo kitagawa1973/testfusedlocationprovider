@@ -31,6 +31,9 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+
+    
+
     // 位置情報許可の確認
     public void checkPermission() {
         // 既に許可している
